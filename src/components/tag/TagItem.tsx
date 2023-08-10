@@ -28,12 +28,12 @@ export const TagItem = styled(
   border-color: transparent;
   border-radius: ${spacing.borderRadius.small}px;
   border-style: solid;
-  border-width: 1px;
+  border-width: 2px;
   color: ${color.darkest};
   display: inline-block;
   font-size: ${typography.size.s2}px;
   line-height: ${typography.size.m1}px;
-  padding: 6px 10px 4px 10px;
+  padding: 6px 9px 4px 9px;
   position: relative;
   white-space: nowrap;
 
