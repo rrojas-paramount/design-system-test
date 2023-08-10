@@ -24,11 +24,11 @@ export const TagItem = styled(
     shouldForwardProp: (prop) => prop !== 'theme' && prop !== 'as',
   }
 )<TagItemProps>`
-  background: red;
+  background: ${color.bluelighter};
   border-color: transparent;
   border-radius: ${spacing.borderRadius.small}px;
   border-style: solid;
-  border-width: 2px;
+  border-width: 5px;
   color: ${color.darkest};
   display: inline-block;
   font-size: ${typography.size.s2}px;
