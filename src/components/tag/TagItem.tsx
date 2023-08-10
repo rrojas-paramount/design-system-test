@@ -24,7 +24,7 @@ export const TagItem = styled(
     shouldForwardProp: (prop) => prop !== 'theme' && prop !== 'as',
   }
 )<TagItemProps>`
-  background: ${color.bluelighter};
+  background: red;
   border-color: transparent;
   border-radius: ${spacing.borderRadius.small}px;
   border-style: solid;
