@@ -4,90 +4,90 @@ $ /Users/rafael.rojas/Projects/Paramount/design-system-test/node_modules/.bin/sv
 Browserslist: caniuse-lite is outdated. Please run:
   npx browserslist@latest --update-db
   Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
-src/images/firefox.svg -> src/images/Firefox.tsx
 src/images/chrome.svg -> src/images/Chrome.tsx
-src/images/safari.svg -> src/images/Safari.tsx
 src/images/ie.svg -> src/images/Ie.tsx
-src/images/colored-icons/Redo.svg -> src/images/colored-icons/Redo.tsx
+src/images/firefox.svg -> src/images/Firefox.tsx
+src/images/safari.svg -> src/images/Safari.tsx
 src/images/colored-icons/FastForward.svg -> src/images/colored-icons/FastForward.tsx
 src/images/colored-icons/assign.svg -> src/images/colored-icons/Assign.tsx
-src/images/colored-icons/accessibility.svg -> src/images/colored-icons/Accessibility.tsx
-src/images/colored-icons/bell.svg -> src/images/colored-icons/Bell.tsx
 src/images/colored-icons/boxmodel.svg -> src/images/colored-icons/Boxmodel.tsx
-src/images/colored-icons/browsers.svg -> src/images/colored-icons/Browsers.tsx
+src/images/colored-icons/bell.svg -> src/images/colored-icons/Bell.tsx
+src/images/colored-icons/Redo.svg -> src/images/colored-icons/Redo.tsx
+src/images/colored-icons/accessibility.svg -> src/images/colored-icons/Accessibility.tsx
 src/images/colored-icons/branch.svg -> src/images/colored-icons/Branch.tsx
 src/images/colored-icons/catalog.svg -> src/images/colored-icons/Catalog.tsx
-src/images/colored-icons/check.svg -> src/images/colored-icons/Check.tsx
 src/images/colored-icons/bug.svg -> src/images/colored-icons/Bug.tsx
-src/images/colored-icons/code-brackets.svg -> src/images/colored-icons/CodeBrackets.tsx
+src/images/colored-icons/check.svg -> src/images/colored-icons/Check.tsx
+src/images/colored-icons/colors.svg -> src/images/colored-icons/Colors.tsx
+src/images/colored-icons/browsers.svg -> src/images/colored-icons/Browsers.tsx
 src/images/colored-icons/code.svg -> src/images/colored-icons/Code.tsx
 src/images/colored-icons/comments.svg -> src/images/colored-icons/Comments.tsx
-src/images/colored-icons/components.svg -> src/images/colored-icons/Components.tsx
-src/images/colored-icons/colors.svg -> src/images/colored-icons/Colors.tsx
-src/images/colored-icons/custom-addon.svg -> src/images/colored-icons/CustomAddon.tsx
+src/images/colored-icons/code-brackets.svg -> src/images/colored-icons/CodeBrackets.tsx
 src/images/colored-icons/detect.svg -> src/images/colored-icons/Detect.tsx
+src/images/colored-icons/components.svg -> src/images/colored-icons/Components.tsx
+src/images/colored-icons/custom-addon.svg -> src/images/colored-icons/CustomAddon.tsx
 src/images/colored-icons/delete.svg -> src/images/colored-icons/Delete.tsx
-src/images/colored-icons/error.svg -> src/images/colored-icons/Error.tsx
-src/images/colored-icons/direction.svg -> src/images/colored-icons/Direction.tsx
 src/images/colored-icons/document-alt.svg -> src/images/colored-icons/DocumentAlt.tsx
-src/images/colored-icons/email.svg -> src/images/colored-icons/Email.tsx
-src/images/colored-icons/document.svg -> src/images/colored-icons/Document.tsx
+src/images/colored-icons/direction.svg -> src/images/colored-icons/Direction.tsx
+src/images/colored-icons/error.svg -> src/images/colored-icons/Error.tsx
 src/images/colored-icons/flow.svg -> src/images/colored-icons/Flow.tsx
-src/images/colored-icons/eye.svg -> src/images/colored-icons/Eye.tsx
-src/images/colored-icons/ignore.svg -> src/images/colored-icons/Ignore.tsx
+src/images/colored-icons/document.svg -> src/images/colored-icons/Document.tsx
+src/images/colored-icons/email.svg -> src/images/colored-icons/Email.tsx
 src/images/colored-icons/group.svg -> src/images/colored-icons/Group.tsx
 src/images/colored-icons/interact.svg -> src/images/colored-icons/Interact.tsx
-src/images/colored-icons/key.svg -> src/images/colored-icons/Key.tsx
-src/images/colored-icons/interface.svg -> src/images/colored-icons/Interface.tsx
+src/images/colored-icons/ignore.svg -> src/images/colored-icons/Ignore.tsx
+src/images/colored-icons/eye.svg -> src/images/colored-icons/Eye.tsx
 src/images/colored-icons/knob.svg -> src/images/colored-icons/Knob.tsx
-src/images/colored-icons/overlap.svg -> src/images/colored-icons/Overlap.tsx
+src/images/colored-icons/interface.svg -> src/images/colored-icons/Interface.tsx
+src/images/colored-icons/key.svg -> src/images/colored-icons/Key.tsx
+src/images/colored-icons/link.svg -> src/images/colored-icons/Link.tsx
 src/images/colored-icons/lightning.svg -> src/images/colored-icons/Lightning.tsx
 src/images/colored-icons/pixel.svg -> src/images/colored-icons/Pixel.tsx
-src/images/colored-icons/link.svg -> src/images/colored-icons/Link.tsx
+src/images/colored-icons/overlap.svg -> src/images/colored-icons/Overlap.tsx
 src/images/colored-icons/plugin.svg -> src/images/colored-icons/Plugin.tsx
-src/images/colored-icons/projects.svg -> src/images/colored-icons/Projects.tsx
 src/images/colored-icons/plus.svg -> src/images/colored-icons/Plus.tsx
-src/images/colored-icons/repo.svg -> src/images/colored-icons/Repo.tsx
 src/images/colored-icons/review.svg -> src/images/colored-icons/Review.tsx
-src/images/colored-icons/runtest.svg -> src/images/colored-icons/Runtest.tsx
+src/images/colored-icons/repo.svg -> src/images/colored-icons/Repo.tsx
 src/images/colored-icons/rewind.svg -> src/images/colored-icons/Rewind.tsx
-src/images/colored-icons/scale.svg -> src/images/colored-icons/Scale.tsx
 src/images/colored-icons/search.svg -> src/images/colored-icons/Search.tsx
-src/images/colored-icons/stoplight.svg -> src/images/colored-icons/Stoplight.tsx
+src/images/colored-icons/scale.svg -> src/images/colored-icons/Scale.tsx
+src/images/colored-icons/projects.svg -> src/images/colored-icons/Projects.tsx
+src/images/colored-icons/runtest.svg -> src/images/colored-icons/Runtest.tsx
+src/images/colored-icons/shield.svg -> src/images/colored-icons/Shield.tsx
 src/images/colored-icons/stack.svg -> src/images/colored-icons/Stack.tsx
+src/images/colored-icons/stoplight.svg -> src/images/colored-icons/Stoplight.tsx
 src/images/colored-icons/soc2.svg -> src/images/colored-icons/Soc2.tsx
 src/images/colored-icons/testflake.svg -> src/images/colored-icons/Testflake.tsx
-src/images/colored-icons/shield.svg -> src/images/colored-icons/Shield.tsx
-src/images/colored-icons/testpyramid.svg -> src/images/colored-icons/Testpyramid.tsx
 src/images/colored-icons/turbo.svg -> src/images/colored-icons/Turbo.tsx
-src/images/colored-icons/unignore.svg -> src/images/colored-icons/Unignore.tsx
-src/images/colored-icons/undo.svg -> src/images/colored-icons/Undo.tsx
-src/images/colored-icons/update.svg -> src/images/colored-icons/Update.tsx
+src/images/colored-icons/testpyramid.svg -> src/images/colored-icons/Testpyramid.tsx
 src/images/colored-icons/text.svg -> src/images/colored-icons/Text.tsx
-src/images/logos/chromatic.svg -> src/images/logos/Chromatic.tsx
+src/images/colored-icons/update.svg -> src/images/colored-icons/Update.tsx
+src/images/colored-icons/undo.svg -> src/images/colored-icons/Undo.tsx
+src/images/colored-icons/unignore.svg -> src/images/colored-icons/Unignore.tsx
 src/images/logos/chromatic-inverted.svg -> src/images/logos/ChromaticInverted.tsx
-src/images/logos/circleci.svg -> src/images/logos/Circleci.tsx
+src/images/logos/chromatic.svg -> src/images/logos/Chromatic.tsx
 src/images/logos/netlify.svg -> src/images/logos/Netlify.tsx
-src/images/logos/storybook-icon.svg -> src/images/logos/StorybookIcon.tsx
-src/images/logos/storybook-monochrome-inverse.svg -> src/images/logos/StorybookMonochromeInverse.tsx
 src/images/logos/storybook-inverted.svg -> src/images/logos/StorybookInverted.tsx
+src/images/logos/storybook-icon.svg -> src/images/logos/StorybookIcon.tsx
+src/images/logos/circleci.svg -> src/images/logos/Circleci.tsx
 src/images/logos/storybook-monochrome.svg -> src/images/logos/StorybookMonochrome.tsx
 src/images/logos/storybook.svg -> src/images/logos/Storybook.tsx
-Done in 7.27s.
+src/images/logos/storybook-monochrome-inverse.svg -> src/images/logos/StorybookMonochromeInverse.tsx
+Done in 4.19s.
 yarn run v1.22.19
 $ patch-package
 patch-package 6.4.7
 Applying patches...
 No patch files found
-Done in 1.18s.
+Done in 0.68s.
 @storybook/cli v7.0.2
 
-info => Cleaning outputDir: /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--53591-iuiYFk3FBTfW
+info => Cleaning outputDir: /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--99506-zHwzU4bEFhPU
 info => Loading presets
 info => Building manager..
-info => Manager built (1.36 s)
+info => Manager built (517 ms)
 info => Compiling preview..
-info => Copying static files: /Users/rafael.rojas/Projects/Paramount/design-system-test/node_modules/@storybook/manager/static at /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--53591-iuiYFk3FBTfW/sb-common-assets
+info => Copying static files: /Users/rafael.rojas/Projects/Paramount/design-system-test/node_modules/@storybook/manager/static at /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--99506-zHwzU4bEFhPU/sb-common-assets
 info Addon-docs: using MDX2
 info => Using implicit CSS loaders
 info => Using default Webpack5 setup
@@ -195,23 +195,24 @@ Browserslist: caniuse-lite is outdated. Please run:
   npx browserslist@latest --update-db
   Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
 <s> [webpack.Progress] 10% building 0/1 entries 1/2 dependencies 0/1 modules
+info => Copying static files: /Users/rafael.rojas/Projects/Paramount/design-system-test/.storybook/static at /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--99506-zHwzU4bEFhPU/
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
-<s> [webpack.Progress] 10% building 0/1 entries 122/128 dependencies 3/74 modules
+<s> [webpack.Progress] 10% building 0/1 entries 123/129 dependencies 3/74 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/unplugin/dist/webpack/loaders/transform.js
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/index.js
-<s> [webpack.Progress] 10% building 0/1 entries 122/128 dependencies 3/74 modules
-info => Copying static files: /Users/rafael.rojas/Projects/Paramount/design-system-test/.storybook/static at /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--53591-iuiYFk3FBTfW/
-<s> [webpack.Progress] 10% building 0/1 entries 126/148 dependencies 5/77 modules
-<s> [webpack.Progress] 10% building 0/1 entries 150/176 dependencies 9/87 modules
-<s> [webpack.Progress] 10% building 0/1 entries 159/200 dependencies 11/93 modules
-<s> [webpack.Progress] 10% building 0/1 entries 387/443 dependencies 12/154 modules
+<s> [webpack.Progress] 10% building 0/1 entries 123/129 dependencies 3/74 modules
+<s> [webpack.Progress] 10% building 0/1 entries 128/150 dependencies 7/78 modules
+<s> [webpack.Progress] 10% building 0/1 entries 157/183 dependencies 12/90 modules
+<s> [webpack.Progress] 10% building 0/1 entries 200/269 dependencies 14/99 modules
+<s> [webpack.Progress] 10% building 0/1 entries 448/494 dependencies 17/189 modules
 <s> [webpack.Progress] 11% building import loader ./node_modules/style-loader/dist/cjs.js
 <s> [webpack.Progress] 11% building import loader ./node_modules/css-loader/dist/cjs.js
-<s> [webpack.Progress] 11% building 0/1 entries 722/752 dependencies 30/201 modules
-<s> [webpack.Progress] 13% building 0/1 entries 1000/1030 dependencies 71/323 modules
-<s> [webpack.Progress] 19% building 0/1 entries 1344/1400 dependencies 174/390 modules
-<s> [webpack.Progress] 25% building 0/1 entries 1594/1700 dependencies 273/486 modules
-<s> [webpack.Progress] 43% building 0/1 entries 2174/2176 dependencies 600/632 modules
+<s> [webpack.Progress] 11% building 0/1 entries 741/760 dependencies 25/202 modules
+<s> [webpack.Progress] 13% building 0/1 entries 1000/1026 dependencies 70/324 modules
+<s> [webpack.Progress] 18% building 0/1 entries 1300/1331 dependencies 156/360 modules
+<s> [webpack.Progress] 24% building 0/1 entries 1550/1600 dependencies 259/487 modules
+<s> [webpack.Progress] 24% building 0/1 entries 1583/1700 dependencies 265/487 modules
+<s> [webpack.Progress] 38% building 0/1 entries 2000/2025 dependencies 519/579 modules
 <s> [webpack.Progress] 64% building 1/1 entries 2181/2181 dependencies 634/634 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
@@ -642,7 +643,7 @@ info => Copying static files: /Users/rafael.rojas/Projects/Paramount/design-syst
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-info => Preview built (1.13 min)
+info => Preview built (1.3 min)
 WARN Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
 WARN Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
 WARN Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
@@ -665,4 +666,4 @@ WARN
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-info => Output directory: /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--53591-iuiYFk3FBTfW
+info => Output directory: /var/folders/h6/8km5d5yn5g75fc79kdg_k22w0000gr/T/chromatic--99506-zHwzU4bEFhPU
